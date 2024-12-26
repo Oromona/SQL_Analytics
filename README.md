@@ -4,7 +4,5 @@ This analysis was part of my training during the course pf my internship at Quan
 
 ### Data sources
 
-### Tools
-  -SQL Server
+## 2. [OCD]( 
 
-### Data Analysis
