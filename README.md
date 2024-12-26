@@ -4,5 +4,5 @@ This analysis was part of my training during the course pf my internship at Quan
 
 ### Data sources
 
-## 2. [OCD]( 
+## 2. [OCD](https://github.com/Oromona/SQL_Analytics/blob/main/OCD%20Exploratory%20Data%20Analysis%20Script.sql)
 
